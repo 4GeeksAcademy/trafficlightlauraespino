@@ -10,3 +10,44 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.semaforo{
+   
+    margin: auto;
+}
+.sostenSemaforo{
+    width: 10px;
+    height: 80px;
+    background-color: black;
+    margin: auto;
+}
+.fondoSemaforo{
+    display: inline-block;
+    width: 80px;
+    height: 200px;
+    background-color: black;
+    margin: auto;
+    border-radius: 15px;
+    padding: 10px;
+}
+.luzRoja{
+    width: 60px;
+    background-color: red;
+    height: 60px;
+    border-radius: 50%;
+    margin: auto;
+    
+}
+.luzAmarilla{
+    width: 60px;
+    background-color: yellow;
+    height: 60px;
+    border-radius: 50%;
+    margin: auto;
+}
+.luzVerde{
+    width: 60px;
+    background-color:green;
+    height: 60px;
+    border-radius: 50%;
+    margin: auto;
+}
